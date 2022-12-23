@@ -21,4 +21,3 @@ for i,v in pairs(kocmoc) do
 end
 end
 repeat task.wait(0.1) until game:IsLoaded()
-loadl()
